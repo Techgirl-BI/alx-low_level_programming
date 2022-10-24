@@ -24,3 +24,7 @@ void print_rev(char *s)
 	_putchar('\n');
 }
 
+t@f5b4e3889b45:/alx-low_level_programming/0x05-pointers_arrays_strings# vi
+
+
+
